@@ -1,7 +1,7 @@
 path: /home/korn/study/y4-1/fern/lab/Lab5-Train-Box-Seg-v4/yolov5/dataset
 train: annotation/segmentation/train.txt
-val: annotation/segmentation/train.txt  # Using same file for validation, split in training
-test: 
+val: annotation/segmentation/train.txt # Using same file for validation, split in training
+test:
 
 names:
   0: protein
@@ -14,4 +14,4 @@ names:
   7: soup
   8: snack
 
-nc: 9  # number of classes
+nc: 9 # number of classes
