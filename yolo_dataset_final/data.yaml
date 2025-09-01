@@ -1,4 +1,4 @@
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                path: /home/korn/study/y4-1/fern/lab/Lab5-Train-Box-Seg-v4/yolov5/yolo_dataset_final
+path: /home/korn/study/y4-1/fern/lab/Lab5-Train-Box-Seg-v4/yolov5/yolo_dataset_final
 train: images/train
 val: images/val
 nc: 9
