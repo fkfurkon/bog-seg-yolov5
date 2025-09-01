@@ -1,0 +1,14 @@
+names:
+  0: protein
+  1: carbohydrate
+  2: fruit
+  3: dessert
+  4: flatware
+  5: vegetable
+  6: sauce
+  7: soup
+  8: snack
+path: /home/korn/study/y4-1/fern/lab/Lab5-Train-Box-Seg-v4/yolov5/merged_dataset
+train: train.txt
+val: train.txt  # Using same set for validation (can be split later)
+nc: 9  # number of classes

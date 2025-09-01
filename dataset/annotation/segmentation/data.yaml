@@ -1,0 +1,12 @@
+names:
+  0: protein
+  1: carbohydrate
+  2: fruit
+  3: dessert
+  4: flatware
+  5: vegetable
+  6: sauce
+  7: soup
+  8: snack
+path: .
+train: train.txt

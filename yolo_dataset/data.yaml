@@ -1,0 +1,14 @@
+names:
+  0: protein
+  1: carbohydrate
+  2: fruit
+  3: dessert
+  4: flatware
+  5: vegetable
+  6: sauce
+  7: soup
+  8: snack
+nc: 9
+path: /home/korn/study/y4-1/fern/lab/Lab5-Train-Box-Seg-v4/yolov5/yolo_dataset
+train: train.txt
+val: val.txt
